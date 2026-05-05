@@ -1,7 +1,7 @@
 # Apex Trail Performance Analytics Dashboard
 
 ## 📊 Project Overview
-This repository contains a comprehensive Power BI project designed for **Apex Trail** an imaginable company. The goal of this project was to transform raw business data into actionable insights, providing a centralized view of performance metrics, sales trends, and operational efficiency.
+This repository contains a comprehensive Power BI project designed for **Apex Trail** an imaginable company dealing in different countries with multiple products. The goal of this project was to transform raw business data into actionable insights, providing a centralized view of performance metrics, sales trends, and operational efficiency.
 
 ## 🛠️ Tech Stack & Tools
 *   **Power BI Desktop**: Dashboarding and Data Visualization.
